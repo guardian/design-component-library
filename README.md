@@ -1,1 +1,1 @@
-# design-component-library
+# Design Component Library
